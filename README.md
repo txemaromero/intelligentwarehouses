@@ -1,3 +1,5 @@
+# intelligentwarehouses
+
 A new order picking system with CAN fieldbus system for intelligent warehouses
 
 A first prototype has been presented (http://youtu.be/D7ay7wDk1Wo). For the demonstration, we used a PCAN-USB adapter (PEAK-System) which enables connection from PC to CAN network, and an ARM Cortex-M3 microcontroller. Concretely, a Stellaris LM3S8962 from Texas Instruments (see image). 
